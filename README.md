@@ -38,6 +38,10 @@ npm install
 ```bash
 quasar dev
 ```
+OR
+```bash
+npx quasar dev
+```
 
 
 ### Build the app for production

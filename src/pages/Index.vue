@@ -28,8 +28,8 @@
               />
             </q-menu>
           </q-btn>
-          <a style="font-size: 25px;" class="float-right q-mr-sm" href="https://github.com/sponsors/mayank091193"
-           target="_blank" title="Donate"><i class="fas fa-heart" style="color: #eb5daa"></i></a>
+          <!-- <a style="font-size: 25px;" class="float-right q-mr-sm" href="https://github.com/sponsors/mayank091193"
+           target="_blank" title="Donate"><i class="fas fa-heart" style="color: #eb5daa"></i></a> -->
       </q-tabs>
         
       </q-toolbar>
